@@ -1,0 +1,9 @@
+flask 
+flask-sqlalchemy 
+cryptography 
+sqlalchemy 
+python-dotenv 
+colorama 
+pandas 
+pymysql 
+autopep8 
